@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 🔭 I’m most interested in discus throw
 - 🌱 I’m currently learning python
 #### My Stats 📈
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=harryngai&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jess&show_icons=true&theme=tokyonight)
